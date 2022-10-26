@@ -1,5 +1,1 @@
-# .Dotfiles
-My Dots
-/=====================================/
-/ B A C K U P for L I N U X / G N U   /
-/=====================================/
+< A backup of my local configs >
